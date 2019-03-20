@@ -1,27 +1,22 @@
-# DeveloperWomen
+# DeveloperWomen - 👩🏽💻💪🏽
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
+An app which shows you a list of the most important women developers in history.
 
-## Development server
+The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4. Based on the Angular documentation "Tour of Heroes".
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Includes
 
-## Code scaffolding
+- Dashboard
+- Search bar
+- Message log which you can clear
+- List where you can **add** or **remove** items
+- A detail view where you can **update** the information
+- Info received from an In-memory Web API
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
 
-## Build
+> Make sure you have globally installed: **Node**, **NPM**, **Angular CLI**.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+1. Clone repository or download
+2. Install NPM packages `npm i`
+3. Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.

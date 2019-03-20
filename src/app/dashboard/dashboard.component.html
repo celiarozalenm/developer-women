@@ -1,0 +1,11 @@
+<h3>Women Power</h3>
+<div class="grid grid-pad">
+  <a *ngFor="let woman of women" class="col-1-4"
+      routerLink="/detail/{{woman.id}}">
+    <div class="module woman">
+      <h4>{{woman.name}}</h4>
+    </div>
+  </a>
+</div>
+
+<app-search></app-search>
