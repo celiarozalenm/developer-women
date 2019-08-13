@@ -1,10 +1,10 @@
-# DeveloperWomen - 👩🏽💻💪🏽
+# DeveloperWomen 👩🏽💻💪🏽
 
 An app which shows you a list of the most important women developers in history.
 
 The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4. Based on the Angular documentation "Tour of Heroes".
 
-## Includes
+## Features
 
 - Dashboard
 - Search bar
@@ -13,7 +13,7 @@ The project was generated with [Angular CLI](https://github.com/angular/angular-
 - A detail view where you can **update** the information
 - Info received from an In-memory Web API
 
-## Installation
+## Setup
 
 > Make sure you have globally installed: **Node**, **NPM**, **Angular CLI**.
 
